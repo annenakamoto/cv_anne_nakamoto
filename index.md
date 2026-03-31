@@ -4,7 +4,7 @@ title: Anne Nakamoto's CV
 ---
 # Anne Nakamoto  
 
-` `  
+<br />
 PhD Candidate  
 Department of Biomolecular Engineering and Bioinformatics | Genomics Institute  
 University of California, Santa Cruz  
@@ -19,12 +19,13 @@ University of California, Santa Cruz
 ## **Education**
 
 `2023-`
-**PhD** in Biomolecular Engineering & Bioinformatics, University of California, 
+**PhD Biomolecular Engineering & Bioinformatics**, University of California, 
 Santa Cruz, USA
 
 `2018-22`
-**BA** in Molecular & Cell Biology: Genetics, Genomics, and Development & 
-Minor in Computer Science, University of California, Berkeley, USA
+**BA Molecular & Cell Biology**, University of California, Berkeley, USA
+- Emphasis in Genetics, Genomics, and Development 
+- Minor in Computer Science
 
 
 ## **Research Experience**
@@ -34,7 +35,7 @@ Minor in Computer Science, University of California, Berkeley, USA
 - Dr. Russ Corbett-Detig Lab, Department of Biomolecular Engineering, University of California, Santa Cruz
 
 `2023-24`
-Graduate Student Researcher, Research rotations
+**Graduate Student Researcher**, Research rotations
 - Dr. Russ Corbett-Detig Lab, Department of Biomolecular Engineering
 - Dr. Joanna Kelley Lab, Department of Ecology and Evolutionary Biology
 - Dr. Shelbi Russell Lab, Department of Biomolecular Engineering, University of California, Santa Cruz
