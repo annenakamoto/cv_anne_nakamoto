@@ -5,9 +5,9 @@ title: Anne Nakamoto's CV
 # Anne Nakamoto  
 
 ` `  
-`PhD Candidate`  
-`Department of Biomolecular Engineering and Bioinformatics | Genomics Institute`  
-`University of California, Santa Cruz`  
+PhD Candidate  
+Department of Biomolecular Engineering and Bioinformatics | Genomics Institute  
+University of California, Santa Cruz  
 
 <div id="webaddress">
 <a href="mailto:aanakamo@ucsc.edu">aanakamo@ucsc.edu</a>
