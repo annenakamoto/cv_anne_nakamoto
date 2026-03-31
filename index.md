@@ -2,7 +2,7 @@
 layout: cv
 title: Anne Nakamoto's CV
 ---
-# Anne Nakamoto
+# Anne Nakamoto  
 
 PhD Candidate  
 Department of Biomolecular Engineering and Bioinformatics | Genomics Institute  
@@ -15,7 +15,7 @@ University of California, Santa Cruz
 </div>
 
 
-## Education
+## **Education**
 
 `2023-Present`
 **PhD** in Biomolecular Engineering & Bioinformatics, University of California, 
@@ -26,7 +26,7 @@ Santa Cruz, USA
 Minor in Computer Science, University of California, Berkeley, USA
 
 
-## Research Experience
+## **Research Experience**
 
 `2024-Present`
 **Graduate Student Researcher**, Dissertation research
@@ -47,7 +47,7 @@ Plant and Microbial Biology, University of California, Berkeley
 Plant and Microbial Biology, University of California, Berkeley
 
 
-## Fellowships
+## **Fellowships**
 
 `2024`
 **T32 Genome Sciences Training Fellowship**, University of California, Santa Cruz
@@ -62,7 +62,7 @@ Plant and Microbial Biology, University of California, Berkeley
 **Undergraduate Research Apprenticeship Program Summer Award**, University of California, Berkeley (not accepted due to accepting SURF Award)
 
 
-## Awards & Honors
+## **Awards & Honors**
 
 `2025`
 **Graduate Dean's Research Travel Grant**, University of California, Santa Cruz
@@ -71,7 +71,7 @@ Plant and Microbial Biology, University of California, Berkeley
 **Advancement to PhD Candidacy with Honors**, Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz. Thesis Proposal: “Conservation genomics at the landscape scale.”
 
 
-## Publications
+## **Publications**
 (\*authors contributed equally)
 
 ### Preprints
@@ -97,7 +97,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 **Anne Nakamoto**,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. [Genome Biology and Evolution, 15 (12), evad206](https://doi.org/10.1093/gbe/evad206).
 
 
-## Conference Presentations
+## **Conference Presentations**
 
 `2026`
 Biomolecular Engineering Research Retreat, University of California, Santa Cruz. Talk: “Comparative mutation load in the California Conservation Genomics Project.”
@@ -114,7 +114,7 @@ Plant and Microbial Biology Department Retreat, University of California, Berkel
 `2021`
 Summer Undergraduate Research Fellowship Program Conference, University of California, Berkeley. Talk: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
-## Poster Presentations
+## **Poster Presentations**
 
 `2026`
 NHGRI Training Conference, St. Louis, MO. Poster: “From orientation to publication: training in genome sequencing and assembly for new graduate students.”
@@ -134,7 +134,7 @@ Center for Computational Biology Retreat, University of California, Berkeley. Po
 2022
 Plant and Microbial Biology Department Retreat, University of California, Berkeley. Poster: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
-## Seminars
+## **Seminars**
 
 `2025`
 Biomolecular Engineering Seminar Series, University of California, Santa Cruz. Seminar: “Investigating deleterious mutation burden across populations and landscapes in the California Conservation Genomics Project.”
@@ -145,7 +145,7 @@ Dr. Peter Sudmant Lab, University of California, Berkeley. Seminar: “Investiga
 `2021`
 Dr. Daniel Croll Lab, University of Neuchâtel. Virtual seminar: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
-## Teaching Experience
+## **Teaching Experience**
 
 `2024, 2025`
 **Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD 
@@ -156,7 +156,7 @@ and Masters students led by the T32 Genome Sciences Fellows. Led hands-on genome
 Summer 2023, hosted by Ksenia Krasileva Lab, Department of  Plant and Microbial Biology, University of California, Berkeley
 
 
-## Mentorship
+## **Mentorship**
 
 `2026-present`
 **Rebecca Abraham** - undergraduate student, bioinformatics techniques for 
@@ -167,7 +167,7 @@ transposable element analysis
 Sciences & Engineering, University of California, Santa Cruz
 
 
-## Work Experience
+## **Work Experience**
 
 `2019-2021`
 **Intermittent Lab Assistant** at Daniel K. Inouye U.S. Pacific Basin Agricultural 
