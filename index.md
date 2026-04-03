@@ -11,7 +11,7 @@ University of California, Santa Cruz
 
 <div id="webaddress">
 <a href="mailto:aanakamo@ucsc.edu">aanakamo@ucsc.edu</a>
-| <a href="https://github.com/aanakamo">aanakamo.github.io</a>
+| <a href="https://github.com/annenakamoto">annenakamoto.github.io</a>
 | <a href="https://orcid.org/0000-0002-6753-7238">ORCID:0000-0002-6753-7238</a>
 | <a href="https://bsky.app/profile/annenakamoto.bsky.social">@annenakamoto</a>
 </div>
