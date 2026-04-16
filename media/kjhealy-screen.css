@@ -123,7 +123,7 @@ h1 {
 	font-size: 3.2em;
 	line-height: 1em;
 	position: relative;
-	left: 33%;
+	left: 0%/*33%*/;
 	color: #007988
 }
 
@@ -164,7 +164,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: 0%/*33%*/;
 	color: #007988;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 100%;
