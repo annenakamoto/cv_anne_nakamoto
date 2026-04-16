@@ -99,9 +99,17 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 `2023`
 **Anne Nakamoto**,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. [Genome Biology and Evolution, 15 (12), evad206](https://doi.org/10.1093/gbe/evad206).
 
+### Genomic Resources
+
+`2026`
+**Genome assembly of _Ceratocystis huliohia_**, NCBI GenBank [GCA_054512535.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_054512535.1/). Long-read assembly generated using Nanopore sequencing, with gene annotations (Bioproject: [PRJNA1400107](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1400107/))
+
+`2026`
+**Mitochondrial genome assembly of _Ceratocystis huliohia_**, NCBI GenBank [PX891014.1](https://www.ncbi.nlm.nih.gov/nuccore/PX891014.1). Generated using long-read Nanopore sequencing, with genes annotated.
+
 
 ## **Conference Presentations**  
-  
+. 
 
 ### Talks
 
