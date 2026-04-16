@@ -77,14 +77,6 @@ Plant and Microbial Biology, University of California, Berkeley
 ## **Publications**
 (\*authors contributed equally)
 
-### Preprints
-
-`2026`
-**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of Ceratocystis huliohia, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. In review at Microbiology Resource Announcements.
-
-`2025`
-Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, Camryn N. Morey, Cade Mirchandani, Luke Sylvester, Hailey Loucks, **Anne Nakamoto**, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis Enstrom, Camille Headrick, Faith Okamoto, Kseniya Malukhina, Harrison D Heath, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete de novo assembly of Wolbachia endosymbiont of contemporary Drosophila simulans using long-read genome sequencing. [EcoEvoRxiv](https://doi.org/10.32942/X2BM0X).
-
 ### Journals
 
 `2025`
@@ -99,6 +91,14 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 `2023`
 **Anne Nakamoto**,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. [Genome Biology and Evolution, 15 (12), evad206](https://doi.org/10.1093/gbe/evad206).
 
+### Preprints
+
+`2026`
+**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of Ceratocystis huliohia, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. In review at Microbiology Resource Announcements.
+
+`2025`
+Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, Camryn N. Morey, Cade Mirchandani, Luke Sylvester, Hailey Loucks, **Anne Nakamoto**, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis Enstrom, Camille Headrick, Faith Okamoto, Kseniya Malukhina, Harrison D Heath, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete de novo assembly of Wolbachia endosymbiont of contemporary Drosophila simulans using long-read genome sequencing. [EcoEvoRxiv](https://doi.org/10.32942/X2BM0X).
+
 ### Genomic Resources
 
 `2026`
@@ -109,7 +109,6 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 
 
 ## **Conference Presentations**  
-. 
 
 ### Talks
 
