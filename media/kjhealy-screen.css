@@ -98,7 +98,7 @@ ul {
 li:before {
 	content: "• ";
 	position: relative;
-	left: -0.25em;
+	left: 0em;
 }
 
 li {
