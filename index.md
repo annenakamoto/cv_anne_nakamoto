@@ -102,10 +102,10 @@ Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, 
 ### Genomic Resources
 
 `2026`
-**Genome assembly of _Ceratocystis huliohia_**, NCBI GenBank [GCA_054512535.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_054512535.1/). Long-read assembly generated using Nanopore sequencing, with gene annotations (Bioproject: [PRJNA1400107](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1400107/))
+**Genome assembly of _Ceratocystis huliohia_ isolate C25-5**, NCBI GenBank [GCA_054512535.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_054512535.1/). Long-read assembly generated using Nanopore sequencing, with gene annotations (Bioproject: [PRJNA1400107](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1400107/))
 
 `2026`
-**Mitochondrial genome assembly of _Ceratocystis huliohia_**, NCBI GenBank [PX891014.1](https://www.ncbi.nlm.nih.gov/nuccore/PX891014.1). Generated using long-read Nanopore sequencing, with genes annotated.
+**Mitochondrial genome assembly of _Ceratocystis huliohia_ isolate C25-5**, NCBI GenBank [PX891014.1](https://www.ncbi.nlm.nih.gov/nuccore/PX891014.1). Generated using long-read Nanopore sequencing, with genes annotated.
 
 
 ## **Conference Presentations**  
