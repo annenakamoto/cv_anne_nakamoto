@@ -101,6 +101,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 
 
 ## **Conference Presentations**  
+  
 
 ### Talks
 
@@ -153,7 +154,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 ## **Teaching & Mentorship**
 
 `2026-`
-**Rebecca Abraham** - undergraduate student (Biomolecular Engineering, UCSC), bioinformatics techniques for 
+**Rebecca Abraham** - undergraduate student (_Biomolecular Engineering, UCSC_), bioinformatics techniques for 
 transposable element analysis in the CCGP
 
 `2025-26`
