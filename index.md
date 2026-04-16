@@ -94,7 +94,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 ### Preprints
 
 `2026`
-**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of Ceratocystis huliohia, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. In review at Microbiology Resource Announcements.
+**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of Ceratocystis huliohia, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. In review at Microbiology Resource Announcements. Github repo: [Chuli_C25-5_genome_announcement](https://github.com/annenakamoto/Chuli_C25-5_genome_announcement).
 
 `2025`
 Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, Camryn N. Morey, Cade Mirchandani, Luke Sylvester, Hailey Loucks, **Anne Nakamoto**, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis Enstrom, Camille Headrick, Faith Okamoto, Kseniya Malukhina, Harrison D Heath, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete de novo assembly of Wolbachia endosymbiont of contemporary Drosophila simulans using long-read genome sequencing. [EcoEvoRxiv](https://doi.org/10.32942/X2BM0X).
