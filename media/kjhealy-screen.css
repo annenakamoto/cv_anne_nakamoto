@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 100%;
+	font-size: 1em;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -147,6 +147,7 @@ h2 {
 	/*top: 1.4em;*/
 	text-align: right;
 	width: 17%;
+	vertical-align: bottom;
 }
 
 h3 {
@@ -158,6 +159,7 @@ h3 {
 	margin-left: 1.5em;
 	text-align: right;
 	width: 17%;
+	vertical-align: bottom;
 }
 
 a {
