@@ -102,6 +102,8 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 
 ## **Conference Presentations**
 
+### Talks
+
 `2026`
 **Biomolecular Engineering Research Retreat**, University of California, Santa Cruz. Talk: “Comparative mutation load in the California Conservation Genomics Project.”
 
@@ -117,7 +119,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 `2021`
 **Summer Undergraduate Research Fellowship Program Conference**, University of California, Berkeley. Talk: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
-## **Poster Presentations**
+### Posters
 
 `2026`
 **NHGRI Training Conference**, St. Louis, MO. Poster: “From orientation to publication: training in genome sequencing and assembly for new graduate students.”
@@ -148,26 +150,30 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 `2021`
 **Dr. Daniel Croll Lab**, University of Neuchâtel. Virtual seminar: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
-## **Teaching Experience**
-
-`2024,25`
-**Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD 
-and Masters students led by the T32 Genome Sciences Fellows. Led hands-on genome sequencing and assembly tutorials. Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz, USA
-
-`2022,23`
-**Instructor for the Genomes and Plant Health Workshop**, Summer 2022 and 
-Summer 2023, hosted by Ksenia Krasileva Lab, Department of  Plant and Microbial Biology, University of California, Berkeley
-
-
-## **Mentorship**
+## **Teaching & Mentorship**
 
 `2026-`
-**Rebecca Abraham** - undergraduate student, bioinformatics techniques for 
-transposable element analysis
+**Rebecca Abraham** - undergraduate student (_Biomolecular Engineering, UCSC_), bioinformatics techniques for 
+transposable element analysis in the CCGP
 
 `2025-26`
-**Faith Okamoto** - Science Support Network mentee, Program in Biomedical 
+**Faith Okamoto** - Science Support Network Mentee, Program in Biomedical 
 Sciences & Engineering, University of California, Santa Cruz
+
+`2024,25`
+**Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD and Masters students led by the T32 Genome Sciences Fellows, Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz, USA. I co-developed and led a training program introducing new students to genome sequencing and bioinformatic analyses, allowing them to complete a full genome assembly workflow, gain experience with the research and publication process, contribute meaningful results, and build community through collaborative activities early in their graduate careers.
+
+`2022,23`
+**Instructor for the Genomes and Plant Health Workshop**, Summer 2022 and 2023, one session for undergraduate students and one for high school students each summer, hosted by Ksenia Krasileva Lab, Department of Plant and Microbial Biology, University of California, Berkeley. A workshop designed to engage students from diverse backgrounds in genomics and data science. I taught a module on genomics and computational biology, and led a hands-on tutorial teaching transposable element annotation.
+
+
+## **Professional Activities**
+
+`2025`
+**Kelp Mapping & Genetics Workshop** participant. A collaborative effort to align the _Strategic Mapping of Giant Kelp and Bull Kelp Genomic Diversity_ project with management needs in California.
+
+`2021`
+**5th Uppsala Transposon Symposium** (virtual) attendee
 
 
 ## **Work Experience**
