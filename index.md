@@ -163,11 +163,11 @@ Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, 
 ## **Teaching & Mentorship**
 
 `2026-`
-**Rebecca Abraham** - undergraduate student (_Biomolecular Engineering, UCSC_), bioinformatics techniques for 
-transposable element analysis in the CCGP
+**Rebecca Abraham** - undergraduate student mentee (_Biomolecular Engineering, UCSC_), bioinformatics techniques for 
+transposable element analysis in the California Conservation Genomics Project
 
 `2025-26`
-**Faith Okamoto** - Science Support Network Mentee, Program in Biomedical 
+**Faith Okamoto** - Science Support Network mentee, Program in Biomedical 
 Sciences & Engineering, University of California, Santa Cruz
 
 `2024,25`
@@ -183,13 +183,13 @@ Sciences & Engineering, University of California, Santa Cruz
 
 ## **Professional Activities**
 
-### Workshops & Symposia
+### Meetings
 
 `2025`
 **Kelp Mapping & Genetics Workshop** participant. A collaborative effort to align the _Strategic Mapping of Giant Kelp and Bull Kelp Genomic Diversity_ project with management needs in California.
 
 `2021`
-**5th Uppsala Transposon Symposium** (virtual) attendee
+**5th Uppsala Transposon Symposium** (virtual) attendee.
 
 ### Professional Memberships
 
