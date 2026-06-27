@@ -119,6 +119,9 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 ### Talks
 
 `2026`
+**Evolution Conference**, Cleveland, OH. “Comparative mutation load in the California Conservation Genomics Project.”
+
+`2026`
 **Biomolecular Engineering Research Retreat**, University of California, Santa Cruz. “Comparative mutation load in the California Conservation Genomics Project.”
 
 `2025`
@@ -134,6 +137,9 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 **Summer Undergraduate Research Fellowship Program Conference**, University of California, Berkeley. “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
 ### Posters
+
+`2026`
+**Population, Evolutionary, & Quantitative Genetics Conference**, Asilomar, CA. “Comparative mutation load in the California Conservation Genomics Project.”
 
 `2026`
 **NHGRI Training Conference**, St. Louis, MO. “From orientation to publication: training in genome sequencing and assembly for new graduate students.”
