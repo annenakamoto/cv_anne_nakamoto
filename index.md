@@ -161,6 +161,9 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 
 ## **Seminars**
 
+`2026`
+**Dr. Lisa Keith Lab**, Pacific Basin Agricultural Research Center, Hilo, Hawaii. Seminar: “Rapid ‘Ōhi‘a Death genomics.”
+
 `2025`
 **Biomolecular Engineering Seminar Series**, University of California, Santa Cruz. Seminar: “Investigating deleterious mutation burden across populations and landscapes in the California Conservation Genomics Project.”
 
