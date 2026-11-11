@@ -162,7 +162,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 ## **Seminars & Symposia**
 
 `2026`
-**Graduate Research Symposium, Fall**, University of California, Santa Cruz. Symposia: “The genomic health of California's wildlife.”
+**Fall Graduate Research Symposium**, University of California, Santa Cruz. Symposia: “The genomic health of California's wildlife.”
 
 `2026`
 **Dr. Lisa Keith Lab**, Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center, Hilo, Hawaii. Seminar: “Rapid ‘Ōhi‘a Death genomics.”
@@ -183,9 +183,9 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 transposable element analysis in the California Conservation Genomics Project
 
 `2025-`
-**Science Support Network mentor***, Program in Biomedical Sciences & Engineering, University of California, Santa Cruz. Mentees:
-- **Faith Okamoto**: 2025-2026
+**Science Support Network mentor**, Program in Biomedical Sciences & Engineering, University of California, Santa Cruz. Mentees:
 - **Yulia Zybina**: 2026-2027
+- **Faith Okamoto**: 2025-2026
 
 `2024,25`
 **Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD and Masters students led by the T32 Genome Sciences Fellows, Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz, USA.
