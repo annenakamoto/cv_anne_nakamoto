@@ -159,7 +159,10 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 `2022`
 **Plant and Microbial Biology Department Retreat**, University of California, Berkeley. “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
-## **Seminars**
+## **Seminars & Symposia**
+
+`2026`
+**Graduate Research Symposium, Fall**, University of California, Santa Cruz. Symposia: “The genomic health of California's wildlife.”
 
 `2026`
 **Dr. Lisa Keith Lab**, Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center, Hilo, Hawaii. Seminar: “Rapid ‘Ōhi‘a Death genomics.”
@@ -179,9 +182,10 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 **Rebecca Abraham** - undergraduate student mentee (_Biomolecular Engineering, UCSC_), bioinformatics techniques for 
 transposable element analysis in the California Conservation Genomics Project
 
-`2025-26`
-**Faith Okamoto** - Science Support Network mentee, Program in Biomedical 
-Sciences & Engineering, University of California, Santa Cruz
+`2025-`
+**Science Support Network mentor***, Program in Biomedical Sciences & Engineering, University of California, Santa Cruz. Mentees:
+- **Faith Okamoto**: 2025-2026
+- **Yulia Zybina**: 2026-2027
 
 `2024,25`
 **Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD and Masters students led by the T32 Genome Sciences Fellows, Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz, USA.
